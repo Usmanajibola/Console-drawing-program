@@ -1,0 +1,21 @@
+{
+  "name": "console-drawer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^28.1.4",
+    "inquirer": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.1",
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
